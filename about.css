@@ -1,0 +1,94 @@
+.resume>h1{
+    font-size: 4rem;
+    margin-top: 0;
+}
+
+.normal-hr {
+    clear: both;
+    height: 1px;
+    background-color: #6b47ff;
+    margin-top: 30px;
+    padding: 0.1px;
+    width: 100%;
+    margin-left: 0;
+
+}
+
+
+#resume {
+    clear: both;
+    margin-top: 10px;
+    margin-bottom: 15%;
+}
+
+.resume,
+.projects {
+    clear: both;
+    margin-top: 50px;
+}
+
+.resume-heading {
+    margin-top: 60px;
+    background: linear-gradient(70deg, #ff0000, #6b47ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 48px;
+    font-family: 'roboto', sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.resume-sideline1 {
+    float: left;
+    margin-left: 50px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.5rem;
+}
+
+.resume-sideline2 {
+    float: right;
+    margin-right: 50px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 0.9rem;
+}
+
+.resume-education {
+    clear: both;
+    margin-top: 50px;
+}
+
+.education-heading,
+.responsibility-heading,
+.training-heading,
+.skills-heading {
+    float: left;
+    margin-left: 20%;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bolder;
+}
+
+.education-content,
+.responsibility-content,
+.training-content,
+.skills-content {
+    float: right;
+    margin-right: 20%;
+    font-family: 'Barlow', sans-serif;
+
+}
+
+.resume-responsibility {
+    clear: both;
+    margin-top: 150px;
+}
+
+.resume-training {
+    clear: both;
+
+}
+
+.resume-skills {
+    clear: both;
+    margin-top: 50px;
+}
